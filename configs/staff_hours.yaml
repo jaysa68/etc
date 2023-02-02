@@ -25,6 +25,9 @@
 
 staff-hours:
   Monday:
+  - time: ['11:10', '12:00']
+    staff: ["jaysag"]
+    cancelled: false
   Tuesday:
     - time: ['14:10', '15:00']
       staff: ["ncograin"]
